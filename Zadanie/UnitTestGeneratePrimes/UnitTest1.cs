@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace UnitTestGeneratePrimes
+namespace Zadanie.UnitTestGeneratePrimes
 {
     [TestClass]
     public class UnitTest1
