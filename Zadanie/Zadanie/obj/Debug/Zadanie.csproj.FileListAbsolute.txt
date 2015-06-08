@@ -1,0 +1,6 @@
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\obj\Debug\Zadanie.csprojResolveAssemblyReference.cache
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+c:\users\monika\documents\visual studio 2013\Projects\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
