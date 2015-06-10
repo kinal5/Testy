@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zadanie
 {
-    public interface Interface1
+    public class Class1:Interface1
     {
-
         /// <summary>
         /// Gets solutions of the problem
         /// </summary>
@@ -20,9 +19,9 @@ namespace Zadanie
         /// <usecase result=2520>Calc(10)</usecase>
         /// <usecase result=232792560>Calc(20)</usecase>
         /// <returns>solution</returns>
-        int Calc(int n);
-        
+        public int Calc(int n)
+        {
+            throw new NotImplementedException();
+        }
     }
-    
 }
-
